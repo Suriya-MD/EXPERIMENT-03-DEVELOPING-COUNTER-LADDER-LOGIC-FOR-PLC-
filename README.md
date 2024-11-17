@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME:
-## REGISTER NUMBER:
-## DEPARTMENT:
-## YEAR:
+## NAME: SURIYA M
+## REGISTER NUMBER: 212223110055
+## DEPARTMENT: CSE(IOT)
+## YEAR: 2
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -62,12 +62,21 @@ Download and Execute:
 Download the ladder logic program to the PLC if available and run it.
 Test the counters with the physical push buttons and observe the LEDs or other output devices.
 ### Outputs:
-Up Counter (CTU): The output LED or indicator should activate when the preset count (e.g., 10) is reached.
-Down Counter (CTD): The output should activate when the count reaches zero.
-Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
+- **Up Counter (CTU)**: The output LED or indicator should activate when the preset count (e.g., 10) is reached.
+- **Down Counter (CTD)**: The output should activate when the count reaches zero.
+- **Up/Down Counter (CTUD)**: The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
-### Simulation Screenshots:
-(Add screenshots of the ladder logic and counter operations in the simulation software.)
+### Simulation Screenshots
+
+**1. Up Counter (CTU)**
+![image](https://github.com/user-attachments/assets/c34b89eb-3633-4003-b05b-79f8280d4799)
+
+**2. Down Counter (CTD)**
+![image](https://github.com/user-attachments/assets/e0daa042-ea20-44e2-8666-1600ba1c95d5)
+
+**3. Up/Down Counter (CTUD)**
+![image](https://github.com/user-attachments/assets/1689fc1f-8158-4d2a-8a58-a4c18485c16e)
+
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
